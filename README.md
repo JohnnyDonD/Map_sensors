@@ -1,1 +1,1 @@
-java projekt :')
+Kotlin project with Activity Recognition API.
